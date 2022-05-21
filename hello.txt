@@ -2,7 +2,8 @@
 1 hello git
 
 /* 
-2 add here
+2 add here //need hot fix 0.1
+# hot fix 0.1
 */
 
 /*
