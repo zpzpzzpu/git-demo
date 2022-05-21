@@ -5,6 +5,7 @@
 2 add here //need hot fix 0.1
 # hot fix 0.1
 2.1 add func
+2.2 add func //github edit
 */
 
 /*
