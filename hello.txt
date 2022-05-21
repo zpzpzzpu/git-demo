@@ -1,0 +1,10 @@
+//its an init line
+1 hello git
+
+/* 
+2 add here
+*/
+
+/*
+3 mod here
+*/
