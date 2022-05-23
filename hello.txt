@@ -1,5 +1,5 @@
 //its an init line
-1 hello git
+1 hello git //fork hh
 
 /* 
 2 add here //need hot fix 0.1
